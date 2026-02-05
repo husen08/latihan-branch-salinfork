@@ -1,3 +1,3 @@
 # repository untuk latihan membuat branch baru
-yuk semangat
+yuk semangat<br>
 masih banyak modulnya hehehe
